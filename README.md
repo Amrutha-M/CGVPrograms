@@ -1,5 +1,7 @@
-# CGVPrograms
-CGV-PROGRAMS
+<html>
+  <head>
+   
+<h2>CGV-PROGRAMS</h2><br>
 1.Implement Brenham’s line drawing algorithm for all types of slope.
 2.Create and rotate a triangle about the origin and a fixed point.
 3.Draw a colour cube and spin it using OpenGL transformation matrices.
